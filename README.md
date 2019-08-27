@@ -3,7 +3,8 @@ Telegram Bot for network diagnose
 
 ----------------------------------
 
-Main module: netdiagbot.py
+Main module: 
+- netdiagbot.py
 
 ----------------------------------
 

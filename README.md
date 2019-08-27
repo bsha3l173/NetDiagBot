@@ -1,4 +1,16 @@
 # NetDiagBot
-Telegram Bot 
+Telegram Bot for network diagnose
 
-Run: python netdiagbot.py
+##################################
+
+Main module: netdiagbot.py
+
+##################################
+
+Additional modules: 
+conf.py - contain settings
+log.py - contain class Log
+
+##################################
+
+Start program: python netdiagbot.py
